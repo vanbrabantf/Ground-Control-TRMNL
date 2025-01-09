@@ -1,0 +1,17 @@
+{
+  "version": "4",
+  "remote": {
+    "https://cdn.jsdelivr.net/npm/lightstreamer-client-web/lightstreamer.js": "97b1cdd6f5de1aa5b6435d643ab141be0eb09c5477db0db23922fce5332c9ab7"
+  },
+  "workspace": {
+    "dependencies": [
+      "jsr:@std/assert@1",
+      "npm:lightstreamer-client-node@^9.2.1"
+    ],
+    "packageJson": {
+      "dependencies": [
+        "npm:lightstreamer-client-node@^9.2.1"
+      ]
+    }
+  }
+}
